@@ -4,7 +4,7 @@ import random
 import asyncio
 token="your_discord_token_here"
 current_secret = 0
-GUILD_ID =1085973662009667736
+GUILD_ID ="your server guild id"
 intents=discord.Intents.default()
 intents.message_content=True
 intents.members=True
